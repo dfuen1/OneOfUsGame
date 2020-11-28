@@ -1,2 +1,2 @@
 # OneOfUsGame
-Choice-based game; Java Swing App
+Choice-based game built with Java Swing App
